@@ -1,0 +1,9 @@
+{
+  "name": "new-homepage",
+  "version": "1.0.0",
+  "description": "jonathan ortiz new homepage",
+  "main": "src/index.js",
+  "repository": "git@github.com:javascript4breakfast/new-homepage.git",
+  "author": "javascript4breakfast <49762980+javascript4breakfast@users.noreply.github.com>",
+  "license": "MIT"
+}
